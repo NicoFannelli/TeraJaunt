@@ -1,6 +1,6 @@
 # jaunt
-Gives Jaunt to any Class
-use personalized greeting to teleport
+Gives Teleport Jaunt to any Class.
+Use personalized greeting to teleport
 
 
 ------
