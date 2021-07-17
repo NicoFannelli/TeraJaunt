@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "jaunt forever",
+    "author": "??",
+    "description": "Gives Jaunt to any Class",
+    "version": "2.1",
+    "options": {
+        "niceName": "jaunt-forever",
+        "guiName": "jaunt-forever"
+    }
+}
